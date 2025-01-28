@@ -1,0 +1,1 @@
+select * from mnretail.order_items
